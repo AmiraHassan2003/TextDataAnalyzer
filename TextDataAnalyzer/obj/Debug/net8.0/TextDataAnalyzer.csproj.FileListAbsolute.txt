@@ -1,0 +1,14 @@
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.AssemblyInfoInputs.cache
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.AssemblyInfo.cs
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.csproj.CoreCompileInputs.cache
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.exe
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.deps.json
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.runtimeconfig.json
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.dll
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\bin\Debug\net8.0\TextDataAnalyzer.pdb
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.dll
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\refint\TextDataAnalyzer.dll
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.pdb
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\TextDataAnalyzer.genruntimeconfig.cache
+D:\FullStack\.Net\Codes\TextDataAnalyzer\TextDataAnalyzer\obj\Debug\net8.0\ref\TextDataAnalyzer.dll
